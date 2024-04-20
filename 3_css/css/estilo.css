@@ -1,0 +1,51 @@
+/* 4 - External */
+
+body {
+    padding-bottom: 500px;
+}
+
+h3 {
+    color: green;
+    font-size: 50px;
+}
+
+p {
+    color: blueviolet;
+}
+
+h4 {
+    background-color: blueviolet;
+}
+
+/* Primeiro comentário*/
+/* Segundo comentário*/
+/* Terceiro comentário*/
+
+/* Classes*/
+.pargraph {
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+
+/* ids */
+
+#exclusive-title {
+    background-color: purple;
+    color: yellow;
+    padding: 10px;
+    font-size: 40px;
+}
+
+/* Ordem das regras*/
+h2 {
+    border-bottom: 2px solid red;
+}
+
+.titulo {
+    border-bottom: 3px solid blue;
+}
+
+#algum-titulo {
+    border-bottom: 3px solid green;
+}
