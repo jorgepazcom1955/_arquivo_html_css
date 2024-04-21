@@ -49,3 +49,26 @@ h2 {
 #algum-titulo {
     border-bottom: 3px solid green;
 }
+
+/* Nome de cores */
+.color-name {
+    color: crimson;
+}
+
+/* Hex */
+.hex {
+    color: #55a398;
+}
+
+.hex-2 {
+    color: #134af8;
+}
+
+/* Aprofundando em hex*/
+.simple-hex {
+    color: #333;
+}
+
+.simple-hex-2 {
+    color: #a57;
+}
