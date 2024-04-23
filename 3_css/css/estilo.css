@@ -10,7 +10,7 @@ h3 {
 }
 
 p {
-    color: blueviolet;
+    /*color: blueviolet;*/
 }
 
 h4 {
@@ -72,3 +72,51 @@ h2 {
 .simple-hex-2 {
     color: #a57;
 }
+
+/* RGB */
+.rgb {
+    color: rgb(2, 61, 13)
+}
+
+.mixed-rgb {
+    color: rgb(200, 21, 47)
+}
+
+/* RGBA */
+.rgba {
+    color: rgba(255, 0, 255, 0.2)
+}
+
+/* HSL */
+.hsl {
+    color: hsl(80, 70%, 20%)
+}
+
+.hsl-2 {
+    color: hsl(200, 60%, 30%)
+}
+
+/* Background */
+.bg {
+    background-color: #333;
+    color: yellow;
+}
+
+.bg-2 {
+    background-color: rgb(200, 20, 30);
+    color: white;
+}
+
+/* Background opacity */
+.bg-opacity {
+    background-color: goldenrod;
+    opacity: 0.2;
+    color: white;
+}
+
+.bg-opacity-2 {
+    background-color: #999;
+    color: white;
+    opacity: .7;
+}
+
