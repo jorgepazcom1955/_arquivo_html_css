@@ -120,3 +120,16 @@ h2 {
     opacity: .7;
 }
 
+/* RGBA com opcidade */
+.rgba-opcity {
+    background-color: rgba(90, 20, 30, 0.2);
+    color: #000;
+}
+
+/* BG image*/
+.bg-image {
+    background-image: url(../css/img/nature.jpg);
+    padding: 20px;
+    color: #fff
+}
+
