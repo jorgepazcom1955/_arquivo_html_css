@@ -208,4 +208,81 @@ h2 {
     box-sizing: border-box;
 } 
 
+/* Border */
+.border {
+    border: 2px solid #057;
+    padding: 10px;
+    margin: 10px;
+}
+
+.border-2 {
+    border: 3px dotted red;
+    padding: 20px;
+}
+
+/* Border individual */
+.border-left {
+    border-left: 3px solid red;
+    background-color: #333;
+    color: white;
+    padding: 25px;
+}
+
+.border-bottom {
+    border-bottom: 5px double #399;
+    background-color: black;
+    color: white;
+    padding: 25px;
+}
+
+/* Borda arredondada */
+.roundet-p {
+    border: 4px solid #134af8;
+    background-color: #000;
+    color: white;
+    padding: 15px;
+    margin: 10px;
+}
+
+.roundet-p-2 {
+    background-color: #000;
+    color: white;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+/* Margem */
+.margin {
+    margin: 10px;
+    background-color: #222;
+    color: white;
+}
+
+.margin-top {
+    margin-top: 50px;
+    background-color: #444;
+    color: white;
+    padding: 10px;
+}
+
+.margin-shorthand {
+    background-color: #666;
+    margin: 5px 10px 20px 30px;
+    color: white;
+}
+
+/* Box model */
+.box-model {
+    margin: 20px;
+    padding: 15px 20px;
+    border: 3px solid #666;
+    border-radius: 10px;
+    width: 200px;
+    height: 400px;
+}
+
+
+
+
+
 
