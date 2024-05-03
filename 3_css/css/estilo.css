@@ -305,6 +305,21 @@ h2 {
     color: red;
 }
 
+/* Text transform*/
+.upper {
+    text-transform: uppercase;
+}
+
+.lower {
+    text-transform: lowercase; 
+}
+
+/* Letter spacing */
+.spacing {
+    letter-spacing: 5px;
+}
+
+
 
 
 
